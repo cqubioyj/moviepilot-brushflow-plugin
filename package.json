@@ -1,0 +1,13 @@
+{
+  "id": "BrushFlowPlus",
+  "name": "BrushFlow增强版",
+  "description": "支持 MoviePilot 媒体过滤和资源过滤的 BrushFlow 搜索插件",
+  "version": "1.0.0",
+  "author": "cqubioyj",
+  "level": 2,
+  "category": "索引器",
+  "icon": "",
+  "history": {
+    "v1.0.0": "初始版本，支持媒体过滤和资源过滤"
+  }
+}
