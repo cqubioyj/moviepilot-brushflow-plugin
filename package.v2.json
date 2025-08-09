@@ -2,13 +2,11 @@
   "brushflowplus": {
     "name": "增强刷流",
     "description": "自动刷流，提升站点分享率、数据量。",
-    "tags": [
-      "站点"
-    ],
+    "labels": "站点",
     "version": "0.3.0",
     "icon": "https://movie-pilot.org/images/plugins/brush.jpg",
     "author": "cqubioyj",
-    "level": "normal",
+    "level": 2,
     "releases": [
       {
         "version": "0.3.0",
