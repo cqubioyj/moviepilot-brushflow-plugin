@@ -1,14 +1,14 @@
 {
   "brushflowplus": {
-    "name": "站点刷流Plus",
-    "description": "在官方刷流插件基础上，增加媒体、资源过滤功能。",
+    "name": "站点刷流增强版",
+    "description": "自动托管刷流，支持通过标题和副标题过滤种子。",
+    "labels": ["刷流", "仪表板"],
     "version": "1.0.0",
-    "author": "cqubioyj",
-    "level": 2,
-    "category": "下载",
     "icon": "brush.jpg",
+    "author": "jxxghp, your_name",
+    "level": 2,
     "history": {
-      "1.0.0": "初始版本"
+      "v1.0.0": "基于BrushFlow v4.3.3版本修改，增加媒体和资源过滤功能"
     }
   }
 }
