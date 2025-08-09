@@ -1,6 +1,7 @@
 import re
 from typing import List, Dict, Any, Optional, Tuple
 from urllib.parse import quote
+import requests
 
 from app.core.config import settings
 from app.log import logger
@@ -315,7 +316,6 @@ class BrushFlowPlus(_PluginBase):
             logger.info(f"开始搜索：{keyword}")
             
             # 调用 BrushFlow API (这里需要根据实际 BrushFlow API 调整)
-            import requests
             response = requests.get(
                 search_url,
                 params=params,
