@@ -15,5 +15,24 @@
         "min_mp_version": "0.8.0"
       }
     ]
+  },
+  "brushflowplus0.4": {
+    "name": "增强刷流v0.4",
+    "description": "自动刷流，提升站点分享率、数据量。",
+    "labels": [
+      "站点"
+    ],
+    "version": "0.4.0",
+    "icon": "https://movie-pilot.org/images/plugins/brush.jpg",
+    "author": "cqubioyj",
+    "level": 2,
+    "releases": [
+      {
+        "version": "0.4.0",
+        "date": "2024-05-27",
+        "description": "全新发布，支持多站点、多客户端、多规则、自定义筛选排序。",
+        "min_mp_version": "0.8.0"
+      }
+    ]
   }
 }
