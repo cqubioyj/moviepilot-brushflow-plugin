@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "id": "burshflowplus",
+      "name": "Brush Flow Plus",
+      "version": "0.1",
+      "author": "cqubioyj",
+      "description": "增强刷流体验的插件。",
+      "module": "plugins.v2.burshflowplus_v0.1",
+      "icon": "icons/burshflowplus.png",
+      "requirements": []
+    }
+  ]
+}
